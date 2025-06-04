@@ -5,32 +5,26 @@ This repository documents my journey in learning and mastering Data Structures a
 ## 📝Topics Covered
 - Arrays and Strings
 - Linked Lists
-- Trees
-- Graphs
-- Recursion
-- Dynamic Programming
-- and more...
-
 ## 🗂️Folder structure
 DSA-Journal/
-│
-├── Arrays/ # Problems and notes related to arrays
-├── LinkedList/ # Linked list problems and explanations
-├── Trees/ # Binary trees, BSTs, traversals, etc.
-├── Graphs/ # Graph algorithms and challenges
-├── README.md # This file
+│  
+├── Arrays/ # Problems and notes related to arrays  
+├── LinkedList/ # Linked list problems and explanations  
+├── Trees/ # Binary trees, BSTs, traversals, etc.  
+├── Graphs/ # Graph algorithms and challenges  
+├── README.md # This file  
 └── progress.md # Checklist or log of completed problems
 
 ## 🧭Purpose
 This repository serves as a structured record of my journey to master Data Structures and Algorithms. By consistently solving problems and organizing my solutions, I aim to:
 
--Practise and refine my DSA skills
--Prepare for technical interviews and competitive coding challenges
+-Practise and refine my DSA skills  
+-Prepare for technical interviews and competitive coding challenges  
 -Reflect on progress over time with a version-controlled learning log
 
 ## ⌨Languages used
--C++
--C
+-C++  
+-C  
 -Java
 
 ## 🙌 Contributions
